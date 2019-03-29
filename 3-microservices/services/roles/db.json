@@ -1,0 +1,24 @@
+{
+  "roles": [
+    {
+      "role": 1,
+      "text": "Super Admin",
+      "user": 4
+    },
+    {
+      "role": 2,
+      "text": "Admin",
+      "user": 2
+    },
+    {
+      "role": 3,
+      "text": "User",
+      "user": 3
+    },
+    {
+      "role": 4,
+      "text": "Account",
+      "user": 1
+    }
+  ]
+}
