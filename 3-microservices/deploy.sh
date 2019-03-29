@@ -5,6 +5,7 @@ DEPLOYABLE_SERVICES=(
 	users
 	threads
 	posts
+	roles
 );
 
 PRIMARY='\033[0;34m'
